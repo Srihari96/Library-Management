@@ -1,6 +1,6 @@
 import requests
 
-API_URL = 'http://127.0.0.1:8000/api/'
+API_URL = 'http://127.0.0.1:8000/api/'  #your api domain
 
 #Test Case #1 - Create Book Record
 url = API_URL + 'book-create/'
